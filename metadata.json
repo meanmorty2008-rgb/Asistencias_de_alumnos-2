@@ -1,0 +1,8 @@
+{
+  "name": "Remix SIAE - Sistema de Asistencia Escolar",
+  "description": "Sistema web institucional para la gestión, registro diario y seguimiento estadístico de asistencia escolar de 1.º, 2.º y 3.º año de educación secundaria técnica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
